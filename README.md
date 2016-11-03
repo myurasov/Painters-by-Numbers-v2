@@ -24,7 +24,7 @@ Solution for [Painters by Numbers](https://www.kaggle.com/c/painter-by-numbers) 
 - `gen_bottlenecks`
 - `gen_metrics`
 - `cache_halfsamples`
-- `train` (optimal result is achieved after ~24-36 with Pascal Titan X)
+- `train` (optimal result is achieved after ~24-36h with Pascal Titan X)
 
 ## Approach
 
