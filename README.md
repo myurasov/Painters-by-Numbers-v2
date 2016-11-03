@@ -1,3 +1,13 @@
+<!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
+
+- [Painters by Numbers v2](#painters-by-numbers-v2)
+	- [Running](#running)
+	- [Approach](#approach)
+	- [Ideas Tried](#ideas-tried)
+	- [Ideas Not Tried](#ideas-not-tried)
+
+<!-- /TOC -->
+
 # Painters by Numbers v2
 
 Solution for [Painters by Numbers](https://www.kaggle.com/c/painter-by-numbers) problem at Kaggle. Scoring #4 with 0.87763 AUC (private LB).
