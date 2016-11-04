@@ -64,3 +64,5 @@ Balance between same-artist and diff-artist pairs was 1:2, altering it to 1:1 or
 - Augmetation of dataset images with random transformations.
 
 - Using EXIF information (although not very useful for real-world performance :).
+
+- Hard negative mining
